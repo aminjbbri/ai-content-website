@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>AI Content Website</title>
+    <link>https://aminjbbri.github.io/ai-content-website/</link>
+    <description>Your AI-generated content feed</description>
+    
+    <!-- Item template for your latest content -->
+    <item>
+      <title>Latest Content Title</title>
+      <link>https://aminjbbri.github.io/ai-content-website/new_content.md</link>
+      <description>Description of the latest content here.</description>
+    </item>
+  </channel>
+</rss>
